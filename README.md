@@ -1,2 +1,2 @@
 # Cardiac_Arrhythmias_PPG
-Cardiac arrhythmias classification on PPG signals
+Binary classification of Normal/Abnormal beats and three-class classification in Normal/PAC/PVC beats in PPG signals. 
